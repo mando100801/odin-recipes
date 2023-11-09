@@ -1,2 +1,2 @@
 # odin-recipes
-The odin project for html
+This project is for demonstrating html skills that I learned in the Odin project.
